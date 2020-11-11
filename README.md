@@ -1,1 +1,2 @@
-# day1
+# Where to start
+This is a short message.
